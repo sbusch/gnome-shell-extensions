@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extensions-caffeine-daemon">
+  <schema path="/org/gnome/shell/extensions/workspace-indicator-extended/" id="org.gnome.shell.extensions.workspace-indicator-extended">
+    <key type="b" name="separate-workspace-buttons">
+        <default>false</default>
+        <summary>Show separate buttons for each workspace</summary>
+        <description></description>
+    </key>
+
+    <!--
+    <key type="as" name="inhibit-apps">
+        <default>[ ]</default>
+        <summary>Application list</summary>
+        <description>A list of strings, each containing an application id (desktop file name)</description>
+    </key>
+    -->
+  </schema>
+</schemalist>

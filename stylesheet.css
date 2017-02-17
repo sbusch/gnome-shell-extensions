@@ -1,0 +1,22 @@
+.panel-workspace-indicator-icon
+{
+	border: 0;
+	margin-right: 0;
+	padding: 0;
+}
+
+.panel-workspace-indicator-label
+{
+	text-align: center;
+	padding: 0 3px;
+	/*background-color: rgba(.3,.3,.3,1);*/
+	
+	border: 1px solid #cccccc;
+	margin-left: 0;
+}
+
+.panel-workspace-indicator-label-active
+{
+	color: #000;
+	background-color: #cccccc;
+}
