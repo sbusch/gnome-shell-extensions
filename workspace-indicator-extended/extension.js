@@ -1,14 +1,5 @@
 // -*- mode: js2; indent-tabs-mode: nil; js2-basic-offset: 4 -*-
 
-/*
-<alt>+<f2> lg -> looking glass console
-<alt>+<f2> r  -> reload gnome shell
-
-journalctl /usr/bin/gnome-shell -f -o cat
-(früher: journalctl /usr/bin/gnome-session -f -o cat)
-in verbindung mit log('xyz') (log() ist abküzrung für global.log()) 
-*/
-
 const Gio = imports.gi.Gio
 const Meta = imports.gi.Meta
 const Clutter = imports.gi.Clutter
