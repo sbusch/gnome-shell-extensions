@@ -2,7 +2,7 @@
 
 This is the home of my extensions for the Gnome Shell:
 
-* [Workspace Indicator extended](tree/master/workspace-indicator-extended/) - Extended fork of original Gnome Workspace Indicator, which shows all workspaces
+* [Workspace Indicator extended](workspace-indicator-extended/) - Extended fork of original Gnome Workspace Indicator, which shows all workspaces
 
 ## Development notes
 
